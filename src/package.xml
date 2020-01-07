@@ -8,5 +8,9 @@
         <members>*</members>
         <name>PageLayout</name>
     </types>
+    <types>
+        <members>System Administrator</members>
+        <name>Profile</name>
+    </types>
     <version>38.0</version>
 </Package>
