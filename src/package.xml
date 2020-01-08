@@ -4,5 +4,14 @@
         <members>HelloWorld</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>SampleContact</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>Account-Account Layout</members>
+        <members>Contact-Contact Layout</members>
+        <name>Layout</name>
+    </types>
     <version>38.0</version>
 </Package>
