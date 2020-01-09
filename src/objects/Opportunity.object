@@ -44,35 +44,43 @@
         <fullName>Individual Opportunity</fullName>
         <isActive>true</isActive>
         <values>
-            <fullName>Awaiting Approval</fullName>
+            <fullName>Closed Lost</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Cancelled</fullName>
+            <fullName>Closed Won</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Completed</fullName>
+            <fullName>Id%2E Decision Makers</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Needs Information</fullName>
+            <fullName>Needs Analysis</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Negotiation</fullName>
+            <fullName>Negotiation%2FReview</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Negotiation Rejected</fullName>
+            <fullName>Perception Analysis</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>New</fullName>
+            <fullName>Proposal%2FPrice Quote</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Scheduled</fullName>
+            <fullName>Prospecting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Qualification</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value Proposition</fullName>
             <default>false</default>
         </values>
     </businessProcesses>
