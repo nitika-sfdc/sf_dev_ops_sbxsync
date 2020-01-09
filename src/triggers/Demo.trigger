@@ -1,4 +1,4 @@
 trigger Demo on Account (after update) {
-system.debug('testing');
+system.debug('re-testing 9th jan ');
 
 }
