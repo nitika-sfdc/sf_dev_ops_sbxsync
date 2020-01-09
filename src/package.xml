@@ -37,7 +37,7 @@
         <name>QuickAction</name>
     </types>
     <types>
-        <members>Individual Opportunity</members>
+        <members>Opportunity.Individual_Opportunity</members>
         <name>RecordTypes</name>
     </types>
     <version>38.0</version>
