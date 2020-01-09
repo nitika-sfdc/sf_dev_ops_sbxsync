@@ -21,7 +21,7 @@
         <members>Account</members>
         <members>Case</members>
         <members>Contact</members>
-        <members>Fulfillment</members>
+        <members>Fulfillment__c</members>
         <members>Individual Opportunity</members>
         <members>Opportunity</members>
         <members>Order</members>
