@@ -15,7 +15,6 @@
     </types>
     <types>
         <members>Case.Fulfillment__c</members>
-        <members>Opportunity.Country__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -36,6 +35,10 @@
     <types>
         <members>New_Expedition_Leader_Case</members>
         <name>QuickAction</name>
+    </types>
+    <types>
+        <members>Individual Opportunity</members>
+        <name>RecordTypes</name>
     </types>
     <version>38.0</version>
 </Package>
