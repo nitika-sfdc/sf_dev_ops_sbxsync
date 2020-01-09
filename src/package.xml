@@ -14,17 +14,7 @@
         <name>ApexTrigger</name>
     </types>
     <types>
-        <members>Case.Fulfillment__c</members>
-        <members>Opportunity.Country__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account</members>
-        <members>Case</members>
-        <members>Contact</members>
-        <members>Fulfillment</members>
-        <members>Individual Opportunity</members>
-        <members>Opportunity</members>
+        <members>Order</members>
         <name>CustomObject</name>
     </types>
     <types>
