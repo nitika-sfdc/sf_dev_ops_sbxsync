@@ -14,16 +14,16 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Case</members>
+        <members>Contact</members>
+        <members>Opportunity</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Account-Account Layout</members>
         <members>Contact-Contact Layout</members>
         <name>Layout</name>
-    </types>
-    <types>
-          <members>Case</members>
-          <members>Account</members>
-          <members>Opportunity</members>
-          <members>Contact</members>
-          <name>CustomObject</name>
     </types>
     <version>38.0</version>
 </Package>
