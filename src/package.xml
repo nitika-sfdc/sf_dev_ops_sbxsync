@@ -15,7 +15,6 @@
     </types>
     <types>
         <members>Case.Fulfillment__c</members>
-        <members>Opportunity.Country_del__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -43,7 +42,7 @@
     </types>
     <types>
         <members>Opportunity.Individual_Opportunity</members>
-        <name>RecordTypes</name>
+        <name>RecordType</name>
     </types>
     <version>38.0</version>
 </Package>
