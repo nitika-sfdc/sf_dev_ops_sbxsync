@@ -56,10 +56,6 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Deposit Made</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Needs Information</fullName>
             <default>false</default>
         </values>
@@ -130,6 +126,19 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Country_del__c</fullName>
+        <externalId>false</externalId>
+        <label>Country</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Country</valueSetName>
+        </valueSet>
     </fields>
     <fields>
         <fullName>CurrentGenerators__c</fullName>
