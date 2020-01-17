@@ -24,15 +24,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Industry</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Ownership</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>DunsNumber</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -45,7 +37,7 @@
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>Phone</field>
             </layoutItems>
             <layoutItems>
@@ -63,6 +55,14 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Sic</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Industry</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>DunsNumber</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
