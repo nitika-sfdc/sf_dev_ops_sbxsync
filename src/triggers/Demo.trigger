@@ -1,4 +1,3 @@
-trigger Demo on Account (after update) {
-system.debug('testing');
+trigger Demo on Account (after insert) {
 
 }
