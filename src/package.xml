@@ -1,39 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>HelloWorld</members>
-        <members>MySampleApexClass</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>SampleContact</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>Demo</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>Case.Fulfillment__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Account</members>
-        <members>Case</members>
-        <members>Contact</members>
-        <members>Fulfillment__c</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>Account-Account Layout</members>
         <members>Contact-Contact Layout</members>
         <name>Layout</name>
-    </types>
-    <types>
-        <members>Opportunity.Individual_Opportunity</members>
-        <name>RecordType</name>
     </types>
     <version>38.0</version>
 </Package>
