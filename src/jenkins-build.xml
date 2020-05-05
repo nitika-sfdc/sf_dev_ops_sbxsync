@@ -71,7 +71,7 @@
 			serverurl="${sf.serverurl}" 
 			maxPoll="10000" 
 			retrieveTarget="/var/lib/jenkins/sf-build-job/git/sf_dev_ops_sbxsync/src" 
-			unpackaged="/var/lib/jenkins/sf-build-job/git/sf_dev_ops_sbxsync/src/package1.xml"/>
+			unpackaged="/var/lib/jenkins/sf-build-job/git/sf_dev_ops_sbxsync/src/package.xml"/>
    
   </target>
 
