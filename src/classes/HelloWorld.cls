@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void hello() {
-        System.debug('Hello from MBOLT on  8th May');
+        System.debug('Hello from MBOLT Sandbox. Have Safe Deployment');
     }
 }
