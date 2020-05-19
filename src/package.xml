@@ -4,5 +4,18 @@
         <members>HelloWorld</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Demo</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Account-Account Layout</members>
+        <members>Contact-Contact Layout</members>
+        <name>Layout</name>
+    </types>
     <version>38.0</version>
 </Package>
